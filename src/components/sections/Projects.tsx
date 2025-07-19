@@ -8,7 +8,7 @@ const Projects = () => {
       title: "TalkSync",
       description:
         "TalkSync is a full-stack real-time chat application with a React/TypeScript frontend and a Spring Boot/WebSocket backend, featuring JWT authentication and PostgreSQL integration.",
-      image: "/TalkSync.png",
+      image: "/TalkSync.webp",
       tags: [
         "React",
         "TypeScript",
@@ -29,7 +29,7 @@ const Projects = () => {
       title: "Url Shortener",
       description:
         "A full-stack URL shortening service with a responsive React frontend and a secure Java Spring Boot backend, enabling custom short links, analytics, and efficient link management.",
-      image: "/URL.png",
+      image: "/URL.webp",
       tags: [
         "React",
         "TypeScript",
@@ -52,7 +52,7 @@ const Projects = () => {
       title: "Shop Co",
       description:
         "Shop.co is a sleek and responsive frontend UI for an e-commerce platform, built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion. It demonstrates a modern shopping experience with animated interactions and mobile-first design — ideal for integration with any backend or headless CMS.",
-      image: "/Shop.png",
+      image: "/Shop.webp",
       tags: [
         "Next.js",
         "React",
@@ -71,7 +71,7 @@ const Projects = () => {
       title: "Scalable Ecommerce Backend",
       description:
         "This project is a scalable e-commerce backend designed for handling products, users, carts, and orders. It uses modern tools and techniques such as service discovery (Eureka Server), API Gateway, and JWT authentication to manage and route requests efficiently. This backend is built using Spring Boot and follows a microservices architecture.",
-      image: "/Ecommerce.png",
+      image: "/Ecommerce.webp",
       tags: [
         "Java",
         "Spring Boot",
@@ -91,7 +91,7 @@ const Projects = () => {
       title: "Naruto Themed Memory Card Game",
       description:
         "A Naruto-themed memory game built with React, where players must click a different character card each time to increase their score. After every click, the cards reshuffle—clicking the same card twice resets the score.",
-      image: "/Naruto.png",
+      image: "/Naruto.webp",
       tags: [
         "React",
         "Vite",
@@ -107,7 +107,7 @@ const Projects = () => {
       title: "IndiaFreeNotes Scraper",
       description:
         "India Notes Scrapper is a Node.js tool that uses Puppeteer to scrape educational content from Indian academic websites and exports the extracted links or data into plain .txt files for easy offline access and reference.",
-      image: "/Scrapper.png",
+      image: "/Scrapper.webp",
       tags: [
         "Node.js",
         "Express",
