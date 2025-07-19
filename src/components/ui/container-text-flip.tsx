@@ -17,7 +17,7 @@ export interface ContainerTextFlipProps {
 }
 
 export function ContainerTextFlip({
-  words = ["Frontend", "Backend", "Full Stack", "Software"],
+  words = ["Backend", "Frontend", "Full Stack", "Software"],
   interval = 3000,
   className,
   textClassName,
@@ -53,7 +53,7 @@ export function ContainerTextFlip({
   }, [words, interval]);
 
   return (
-    <motion.p
+    <motion.div
       layout
       layoutId={`words-here-${id}`}
       animate={{ width }}
@@ -96,6 +96,6 @@ export function ContainerTextFlip({
           ))}
         </motion.div>
       </motion.div>
-    </motion.p>
+    </motion.div>
   );
 }

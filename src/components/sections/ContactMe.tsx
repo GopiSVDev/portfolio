@@ -35,12 +35,12 @@ const ContactMe = () => {
           transition={{ duration: 0.6 }}
           viewport={{ once: true }}
         >
-          <h2 className="text-4xl md:text-5xl font-bold mb-6 text-blue-500">
+          <h2 className="text-3xl md:text-5xl font-bold mb-6 text-blue-500">
             Get In Touch.
           </h2>
 
           <p className="text-muted-foreground text-sm md:text-base max-w-xl mx-auto">
-            I specialize in building full-stack web{" "}
+            I specialize in building{" "}
             <span className="text-blue-500 font-medium">
               Full Stack Development
             </span>

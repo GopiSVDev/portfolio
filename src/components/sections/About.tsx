@@ -20,8 +20,7 @@ const About = () => {
             </h1>
 
             <p className="text-base md:text-lg leading-relaxed text-muted-foreground">
-              Hey, I’m Gopi — a self-taught full stack developer based in
-              Bengaluru.
+              A self-taught full stack developer based in Bengaluru.
             </p>
 
             <p className="text-base md:text-lg leading-relaxed text-muted-foreground">
@@ -36,19 +35,16 @@ const About = () => {
               <span className="font-semibold text-foreground">Spring Boot</span>{" "}
               on the backend and{" "}
               <span className="font-semibold text-foreground">React</span> on
-              the frontend. I recently built a chat app from scratch — not
-              because I needed one, but because I wanted to see if I could.
-              Lately, I’ve been diving deeper into backend work and looking to
-              get into app development too.
+              the frontend. Lately, I’ve been diving deeper into backend work
+              and looking to get into app development too.
             </p>
 
             <p className="text-base md:text-lg leading-relaxed text-muted-foreground">
               I’m more of an introvert — the kind of person who enjoys working
-              solo and slipping into a flow state while building. When I’m in
-              the zone, hours go by without me even noticing. I’ve mostly worked
-              alone so far — partly because I enjoy it, and partly because I
-              haven’t yet had the chance to work in a team. But I’m always open
-              to learning what that’s like.
+              solo and slipping into a flow state while building. I’ve mostly
+              worked alone so far — partly because I enjoy it, and partly
+              because I haven’t yet had the chance to work in a team. But I’m
+              always open to learning what that’s like.
             </p>
           </motion.div>
         </BackgroundGradient>

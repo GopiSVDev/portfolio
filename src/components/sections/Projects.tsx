@@ -126,7 +126,7 @@ const Projects = () => {
   return (
     <div className="w-full my-15 md:mt-20 scroll-mt-20" id="projects">
       <div className="max-w-[1440px] mx-auto px-5">
-        <h1 className="text-center text-5xl font-bold">MY PROJECTS</h1>
+        <h1 className="text-center text-4xl font-bold">My Projects</h1>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-10">
           {projects.map(({ title, description, image, tags, link }) => (
