@@ -106,7 +106,7 @@ const Skills = () => {
         <div className="w-full mt-12 flex flex-col gap-10 px-4">
           {categorizedSkills.map(({ category, skills }) => (
             <div key={category}>
-              <h2 className="text-2xl font-semibold mb-4 text-center">
+              <h2 className="text-2xl font-normal mb-4 text-center">
                 {category}
               </h2>
               <div className="flex flex-wrap gap-3 justify-center">
