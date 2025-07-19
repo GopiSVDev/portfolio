@@ -1,4 +1,4 @@
-import { FaLinkedin, FaEnvelope, FaFileAlt, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaEnvelope, FaGithub, FaTelegram } from "react-icons/fa";
 import { motion } from "framer-motion";
 import { TagButton } from "../TagButton";
 
@@ -20,9 +20,9 @@ const ContactMe = () => {
       link: "mailto:gopisvdev@gmail.com",
     },
     {
-      title: "Resume",
-      icon: <FaFileAlt />,
-      link: "",
+      title: "Telegram",
+      icon: <FaTelegram />,
+      link: "https://t.me/gopisvdev",
     },
   ];
 
