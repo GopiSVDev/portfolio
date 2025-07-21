@@ -23,7 +23,7 @@ export default function Hero() {
     {
       title: "Resume",
       icon: <FaFileAlt />,
-      link: "",
+      link: "/resume.pdf",
     },
   ];
 
