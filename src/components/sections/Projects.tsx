@@ -88,22 +88,6 @@ const Projects = () => {
       link: "https://github.com/GopiSVDev/scalable_ecommerce",
     },
     {
-      title: "Naruto Themed Memory Card Game",
-      description:
-        "A Naruto-themed memory game built with React, where players must click a different character card each time to increase their score. After every click, the cards reshuffle—clicking the same card twice resets the score.",
-      image: "/Naruto.webp",
-      tags: [
-        "React",
-        "Vite",
-        "Tailwind CSS",
-        "Lodash",
-        "React Parallax Tilt",
-        "ESLint",
-        "TypeScript (types only)",
-      ],
-      link: "https://naruto-memory.vercel.app/",
-    },
-    {
       title: "IndiaFreeNotes Scraper",
       description:
         "India Notes Scrapper is a Node.js tool that uses Puppeteer to scrape educational content from Indian academic websites and exports the extracted links or data into plain .txt files for easy offline access and reference.",
