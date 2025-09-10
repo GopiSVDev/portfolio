@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 import { TagButton } from "../TagButton";
 import { ContainerTextFlip } from "@/components/ui/container-text-flip";
-import { FaEnvelope, FaFileAlt, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaEnvelope, FaGithub, FaLinkedin } from "react-icons/fa";
 
 export default function Hero() {
   const icons = [
@@ -19,11 +19,6 @@ export default function Hero() {
       title: "Email",
       icon: <FaEnvelope />,
       link: "mailto:gopisvdev@gmail.com",
-    },
-    {
-      title: "Resume",
-      icon: <FaFileAlt />,
-      link: "/resume.pdf",
     },
   ];
 
